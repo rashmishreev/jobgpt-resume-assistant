@@ -1,3 +1,4 @@
+#!/Users/sanjay/Documents/GitHub/jobgpt-resume-assistant/jobgpt-openai-env/bin/python
 # from openai import OpenAI
 # import os
 
