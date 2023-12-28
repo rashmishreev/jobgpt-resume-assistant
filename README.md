@@ -10,7 +10,7 @@ The initial phase involved reviewing successful resumes on platforms like Linked
 In the following stage, a dataset with prompt-answer pairs was compiled for training the model, guided by OpenAI's [documentation](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset). This involved crafting diverse conversations to simulate real-world scenarios the model might encounter in production. Job descriptions from LinkedIn were utilized, employing the STAR method to tailor robust bullet points for each role. Additionally, ChatGPT 3.5, with descriptive prompts, was used to generate extra bullet points. The final dataset, stored in the ['prompt-answer-pairs.jsonl'](https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/prompt-answer-pairs.jsonl), was developed and utilized for fine-tuning the model.
 <img align="center" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/image.png"> 
 
-### 3. The project data flow is outlined below:
+### 3. The project flow is outlined below:
 <img align="center" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/architecture.png"> 
 
 ### 4. Fine-Tuned Model Output and Experiment Insights
