@@ -11,7 +11,7 @@ In the following stage, a dataset with prompt-answer pairs was compiled for trai
 <img align="center" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/image.png"> 
 
 ### 3. The project flow is outlined below:
-<img align="center" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/architecture.png"> 
+<img align="center" width="500" height="500" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/architecture.png"> 
 
 ### 4. Fine-Tuned Model Output and Experiment Insights
 The results from the fine-tuned model are as follows. Despite a limited fine-tuning dataset, the model performed well with few-shot examples. Opportunities for improvement include enhancing dataset diversity, creating a user interface, etc. It's important to note that this was a small-scale experiment.
