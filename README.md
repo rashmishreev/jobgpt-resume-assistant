@@ -15,4 +15,5 @@ In the following stage, a dataset with prompt-answer pairs was compiled for trai
 
 ### 4. Fine-Tuned Model Output and Experiment Insights
 The results from the fine-tuned model are as follows. Despite a limited fine-tuning dataset, the model performed well with few-shot examples. Opportunities for improvement include enhancing dataset diversity, creating a user interface, etc. It's important to note that this was a small-scale experiment.
+
 <img align="center" src="https://github.com/rashmishreev/jobgpt-resume-assistant/blob/main/Images/finetuning-output.png"> 
